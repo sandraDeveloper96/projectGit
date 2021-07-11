@@ -1,1 +1,4 @@
 Esta es mi historia en sistema de versionamiento GIT
+
+Soy Gustavo Orjuela Trujillo tengo 25 años naci en colombia 
+me encanta la programacion y aprender de sistemas.
