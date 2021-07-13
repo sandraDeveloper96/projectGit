@@ -1,0 +1,17 @@
+body{
+   text-align:center;
+   font-family: "arial";
+   color: orange;
+}
+
+.main_content{
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.main_content p{
+   margin: 0;
+}
