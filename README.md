@@ -1,1 +1,1 @@
-# projectGit
+# ProjectGit
