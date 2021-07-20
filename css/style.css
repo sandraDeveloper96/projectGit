@@ -1,17 +1,17 @@
-body{
-   text-align:center;
-   font-family: "arial";
-   color: orange;
+body {
+    text-align: center;
+    font-family: "Courier";
+    color: orange;
 }
 
-.main_content{
-   height: 100vh;
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
+.main_content {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-.main_content p{
-   margin: 0;
+.main_content p {
+    margin: 0;
 }
