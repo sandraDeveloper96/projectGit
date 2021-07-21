@@ -44,3 +44,17 @@ body {
 #post {
     padding: 1em;
 }
+
+.btn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.styel_btn {
+    background-color: #cccccc;
+    padding: .7em 2em;
+    text-decoration: none;
+    font-weight: bold;
+    color: #069b19;
+    cursor: pointer;
+}
