@@ -1,10 +1,18 @@
 body {
-    color: #333;
+    background-color: rgb(59, 59, 59);
+    color: #fff;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
 }
 
 #container {
@@ -35,4 +43,18 @@ body {
 
 #post {
     padding: 1em;
+}
+
+.btn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.styel_btn {
+    background-color: #cccccc;
+    padding: .7em 2em;
+    text-decoration: none;
+    font-weight: bold;
+    color: #04a119;
+    cursor: pointer;
 }
