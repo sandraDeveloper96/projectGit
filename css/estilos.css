@@ -37,17 +37,19 @@ body {
     padding: 1em;
 }
 
+
 /*footer*/
-.footer{
+
+.footer {
     text-align: center;
     background-color: #333;
     color: #fff;
 }
 
-.footer p{
+.footer p {
     margin: 0;
 }
 
-.content-footer{ 
-    padding: .5em;
+.content-footer {
+    padding: .4em;
 }
