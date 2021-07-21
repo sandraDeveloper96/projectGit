@@ -1,10 +1,18 @@
 body {
-    color: #333;
+    background-color: rgb(59, 59, 59);
+    color: #fff;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
 }
 
 #container {
@@ -37,17 +45,19 @@ body {
     padding: 1em;
 }
 
+
 /*footer*/
-.footer{
+
+.footer {
     text-align: center;
     background-color: #333;
     color: #fff;
 }
 
-.footer p{
+.footer p {
     margin: 0;
 }
 
-.content-footer{ 
+.content-footer {
     padding: .5em;
 }
