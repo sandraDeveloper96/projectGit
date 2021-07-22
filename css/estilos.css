@@ -45,23 +45,6 @@ body {
     padding: 1em;
 }
 
-<<<<<<< HEAD
-
-/*footer*/
-
-.footer {
-    text-align: center;
-    background-color: #333;
-    color: #fff;
-}
-
-.footer p {
-    margin: 0;
-}
-
-.content-footer {
-    padding: .4em;
-=======
 .btn {
     display: flex;
     justify-content: flex-end;
@@ -74,5 +57,4 @@ body {
     font-weight: bold;
     color: #069b19;
     cursor: pointer;
->>>>>>> master
 }
